@@ -199,7 +199,7 @@ Drug-Interaction-Safety-Assistant/
 # Clone Repository
 
 bash
-git clone https://github.com/yourusername/Drug-Interaction-Safety-Assistant.git
+git clone https://github.com/devwithanurag/Drug-Interaction-Safety-Assistant.git
 
 cd Drug-Interaction-Safety-Assistant
 
